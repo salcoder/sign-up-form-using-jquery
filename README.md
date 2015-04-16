@@ -1,6 +1,4 @@
-sign-up-form-using-jquery
-=========================
+Simple Sign Up Form Using jQuery
 
-Simple way of doing a form validation.
 
 
